@@ -1,0 +1,31 @@
+{
+  "name": "image-test-tools",
+  "version": "1.0.0",
+  "description": "image test tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liyinchigithub/image-test-tools.git"
+  },
+  "keywords": [
+    "image"
+  ],
+  "author": "liyinchi@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liyinchigithub/image-test-tools/issues"
+  },
+  "homepage": "https://github.com/liyinchigithub/image-test-tools#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "cheerio": "^1.0.0-rc.3",
+    "commander": "^5.1.0",
+    "fs": "0.0.1-security",
+    "request": "^2.88.2",
+    "sharp": "^0.25.3",
+    "text-to-svg": "^3.1.5"
+  }
+}
