@@ -132,7 +132,7 @@ node ImageDownload/download -h
 
 #### （1）命令行输入
 ```bash
-node Resize/resize -i "Resize/image/resize.jpg" -w 1000 -h 2000
+node Resize/resize -i "Resize/image/resize.jpg" -w 1000 -e 2000
 ```
 ![img](./static/demo/resize2.jpg)
 

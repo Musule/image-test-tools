@@ -8,7 +8,7 @@ var outputImage;program
     .version('1.0.0')
     .option('-i, --inputImage [type]', '被修改图片存放位置', "Resize/image/resize.jpg")
     .option('-w, --width [type]', '宽（单位：像素）', 200)
-    .option('-e, --height [type]', '图片存放位置', 200)
+    .option('-e, --height [type]', '高（单位：像素）', 200)
     .option('-o, --outputImage [type]', '被修改后的图片存放位置', "Resize/output/resize.jpg")
     .parse(process.argv);
 console.log(chalk.green.bold('params:'));
