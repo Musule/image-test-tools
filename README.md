@@ -245,9 +245,18 @@ node WaterMake/watermake -b "WaterMake/image/watermake.jpg" -s 50 -t '我是水�
 ```
 * 如下图所示
 
-![img](./static/demo/watermake4.jpg)
+![img](./static/demo/watermarke7.png)
 
+```bash
+node WaterMake/watermake -b "WaterMake/image/watermake.jpg" -s 50 -t '1' -c 'green' -l 100 -o 100 -p "WaterMake/output/watermarked.png"
+```
 
+![img](./static/demo/watermarke5.png)
+
+```bash
+node WaterMake/watermake -b "WaterMake/image/watermake.jpg" -s 50 -t '2' -c 'blue' -l 100 -o 100 -p "WaterMake/output/watermarked.png"
+```
+![img](./static/demo/watermarke6.png)
 生成成功后，图片所存放的位置
 
 >image-test-tools/WaterMake/output/watermarked.png
