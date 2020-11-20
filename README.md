@@ -2,6 +2,8 @@
 
 测试工程师，必备图片测试工具
 
+recommend: [China-Gitee](https://gitee.com/liyinchi/image-test-tools)，[Other-Github](https://github.com/Musule/image-test-tools)
+
 # 一、优点
 
 * 简单易上手
