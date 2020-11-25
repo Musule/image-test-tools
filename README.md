@@ -25,6 +25,12 @@ recommend: [China-Gitee](https://gitee.com/liyinchi/image-test-tools)，[Other-G
 
 如果你电脑还未安装配置nodejs环境，请参考：https://www.runoob.com/nodejs/nodejs-install-setup.html
 
+下载Nodejs
+
+>https://npm.taobao.org/mirrors/node/v0.12.13/
+
+（建议版本使用v12.13.0 小于v15.0）
+
 >如果已安装配置nodejs，可跳过此步骤
 
 ### 2.安装
